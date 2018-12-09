@@ -5,3 +5,5 @@ In this talk we give an overview of the techniques that are used in order to exf
 ## Dynamic Binary Instrumentation for Malware analysis, by f_palmaro
 
 In this talk we will discuss the DBI technique, introducing its features and entering specifically in a framework implemented by Intel called PIN. We will then show an application of the framework to malware analysis and in particular to the fight against evasive malware.
+
+[PinTool Example](https://defcon11396.it/assets/MyPinTool.tar.gz)
